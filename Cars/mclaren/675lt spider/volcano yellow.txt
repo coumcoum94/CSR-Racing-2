@@ -2,7 +2,7 @@
 *
 * @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
 */
-
+{
       "unid": 3820,
       "crdb": "McLaren_675LTSpiderRewardRecycled_2016",
       "awar": false,

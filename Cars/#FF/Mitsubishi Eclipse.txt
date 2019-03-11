@@ -2,7 +2,7 @@
 *
 * @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
 */
-
+{
       "unid": 1128,
       "crdb": "Mitsubishi_EclipseF1_1995",
       "awar": false,

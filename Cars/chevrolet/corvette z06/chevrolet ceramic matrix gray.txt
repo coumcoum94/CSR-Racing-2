@@ -2,7 +2,7 @@
 *
 * @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
 */
-
+{
       "unid": 1998,
       "crdb": "Chevrolet_CorvetteC7REditionRewardRecycled_2015",
       "awar": false,

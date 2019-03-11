@@ -2,7 +2,7 @@
 *
 * @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
 */
-
+{
       "unid": 882,
       "crdb": "Ferrari_F12berlinetta70thAnniversary_2014",
       "awar": false,

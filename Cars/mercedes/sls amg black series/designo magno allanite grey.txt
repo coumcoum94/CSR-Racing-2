@@ -2,7 +2,7 @@
 *
 * @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
 */
-
+{
       "unid": 384,
       "crdb": "MercedesBenz_SLSAMGBlackSeries_2013",
       "awar": false,
