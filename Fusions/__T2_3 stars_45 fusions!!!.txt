@@ -1,3 +1,7 @@
+/**
+*
+* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
+*/
 {
           "lvlo": 6,
           "lvlf": 6,
@@ -530,3 +534,7 @@
             }
           ]
         }
+/**
+*
+* @author Minato00 http://4pda.ru/forum/index.php?showuser=5224361
+*/
